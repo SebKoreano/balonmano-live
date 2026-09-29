@@ -1,0 +1,4 @@
+storeFile=C\:/ruta/privada/balonmano-live.jks
+storePassword=TU_CONTRASENA
+keyAlias=balonmano-live
+keyPassword=TU_CONTRASENA

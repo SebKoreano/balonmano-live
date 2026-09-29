@@ -1,0 +1,16 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+signing.properties
+*.jks
+*.keystore
+.idea/
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!signing.properties.example
+Firma-privada*
